@@ -22,7 +22,7 @@ export const sections = [
     isHome: true,
     heroImage: heroImage('military medic field hospital', 101),
     content: `
-      <p class="lead">Добро пожаловать в электронную <strong>санитарную книгу</strong> проекта Military RP. Здесь собраны правила, процедуры и базовые знания для медицинского персонала и бойцов на поле боя.</p>
+      <p class="lead">Добро пожаловать в электронную <strong>санитарную книгу</strong>. Здесь собраны правила, процедуры и базовые знания для медицинского персонала и бойцов на поле боя.</p>
       <div class="feature-grid">
         <div class="feature-card">
           <span class="feature-num">01</span>
